@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/claudio/static/css/main.073c9b0a.css",
+    "main.js": "/claudio/static/js/main.7f6f312f.js",
+    "static/js/787.001f9897.chunk.js": "/claudio/static/js/787.001f9897.chunk.js",
+    "index.html": "/claudio/index.html",
+    "static/media/logo.svg": "/claudio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/claudio/static/css/main.073c9b0a.css.map",
+    "main.7f6f312f.js.map": "/claudio/static/js/main.7f6f312f.js.map",
+    "787.001f9897.chunk.js.map": "/claudio/static/js/787.001f9897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f6f312f.js"
+  ]
+}
